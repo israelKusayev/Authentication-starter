@@ -1,0 +1,31 @@
+@import './loading.css';
+
+body {
+  font-family: 'Roboto Slab', serif;
+  font-size: 19px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+
+a.nav-link {
+  cursor: pointer;
+}
+
+.row {
+  margin: 0 0 10px 0 !important;
+}
+
+.modal-header {
+  color: black;
+}
+
+.bold {
+  font-weight: bold;
+}
